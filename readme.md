@@ -1,3 +1,7 @@
+# Extract FPS averages from an RPT
+
+You need to have logged FPS to the RPT first. We have a tiny mod that does this. We'll get around to publishing it some day :)
+
 # Installation of deps
 
 ```
